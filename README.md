@@ -1,2 +1,2 @@
 # NLW-2
- Next Level Week #2 ( Rockseat )
+ Next Level Week #2 ( Rocketseat )
